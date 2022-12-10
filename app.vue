@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
+  <div class="font-rubik">
+    Hello World
   </div>
 </template>
